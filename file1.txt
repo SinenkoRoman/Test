@@ -3,3 +3,5 @@ Test-1: Change on local repository
 Test-2: Change on remote repository
 
 Test-3: Test downloading an update from a local repository
+
+Test-4: Updating file via terminal
