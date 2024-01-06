@@ -9,3 +9,5 @@ Test-4: Updating file via terminal
 Test-6: Adding a new line via terminal
 
 Test-7: Hidden file modification
+
+Test-8: Adding a new line in a branch
