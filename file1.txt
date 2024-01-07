@@ -13,3 +13,5 @@ Test-7: Hidden file modification
 Test-8: Adding a new line in a branch
 
 Test-9: Test for conflict when merging branches
+
+Test-12: Adding a new line via git gui
